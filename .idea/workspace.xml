@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6a01b7f-481d-4341-8ece-edf9ebcda8f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_03_29_2023_StringJavaTime.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hedima/presentacion/ProbarJavaTime.java" afterDir="false" />
-    </list>
+    <list default="true" id="e6a01b7f-481d-4341-8ece-edf9ebcda8f3" name="Changes" comment="para terminar" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,6 +46,18 @@
       <option name="presentableId" value="Default" />
       <updated>1680187006821</updated>
     </task>
+    <task id="LOCAL-00001" summary="para terminar">
+      <created>1680190062715</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680190062715</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="para terminar" />
+    <option name="LAST_COMMIT_MESSAGE" value="para terminar" />
   </component>
 </project>
